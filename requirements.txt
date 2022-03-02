@@ -1,0 +1,5 @@
+asyncio
+discord.py
+moviepy
+python-dotenv
+pytube
